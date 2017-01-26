@@ -1,0 +1,26 @@
+{
+  "name": "nometa",
+  "version": "0.1.0",
+  "description": "Remove meta data from files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacksparrow/nometa.git"
+  },
+  "keywords": [
+    "meta",
+    "metedata",
+    "exif",
+    "xmp",
+    "photoshop"
+  ],
+  "author": "Hage Yaapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacksparrow/nometa/issues"
+  },
+  "homepage": "https://github.com/hacksparrow/nometa#readme"
+}
